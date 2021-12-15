@@ -1,2 +1,2 @@
 # Patika.dev Ödevleri
-Kodluyoruz'un Patika eğitimi esnasında istenilen ödevlerin tamamını ayrı branch'lerde burada muhafaze ettim.
+Bu CSS ödevinde Google'ın 1998 tarihli anasayfasını HTML ve CSS ile modelledim.
