@@ -1,2 +1,2 @@
-# Patika.dev Ödevleri
-Kodluyoruz'un Patika eğitimi esnasında istenilen ödevlerin tamamını ayrı branch'lerde burada muhafaze ettim.
+# CSS Ödev 3
+Bu ödevde Google'ın şimdiki anasayfasını CSS kullanarak olabildiğince elimden geldiğince yakın bir şekilde modelledim.
