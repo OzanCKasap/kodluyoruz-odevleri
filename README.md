@@ -1,2 +1,3 @@
-# Patika.dev Ödevleri
-Kodluyoruz'un Patika eğitimi esnasında istenilen ödevlerin tamamını ayrı branch'lerde burada muhafaze ettim.
+# JS Koşullarla Çalışmak Bölüm Sonu Ödevi
+
+Hakan hocanın şu videodaki: https://youtu.be/JEzqfTfdidE ödevini yükledim.
